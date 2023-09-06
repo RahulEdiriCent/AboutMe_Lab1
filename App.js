@@ -27,6 +27,8 @@ const styles = StyleSheet.create({
   },
   title: {
     fontWeight: 'bold',
+    fontSize: 36,
+    textDecorationLine: 'underline',
     alignItems: 'center',
     justifyContent: 'center',
   },
