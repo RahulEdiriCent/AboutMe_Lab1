@@ -5,6 +5,11 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>About Me</Text>
+      <Text></Text>
+      <Text></Text>
+      <Text></Text>
+      <Text></Text>
+      <Text></Text>
       <Text>Hello</Text>
       <Text>I am Rahul Pankaja Edirisinghe</Text>
       <Text>Student ID: 301369991</Text>
